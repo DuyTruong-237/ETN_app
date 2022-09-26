@@ -6,7 +6,7 @@
 
     android:layout_height="match_parent"
     tools:context=".MainActivity">
-
+// progressbar load
     <ProgressBar
         android:id="@+id/progressBarload"
         style="?android:attr/progressBarStyle"
